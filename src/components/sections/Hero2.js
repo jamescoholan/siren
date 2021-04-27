@@ -62,7 +62,7 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              <span className="text-color-primary">Featured Videos</span>
+              <span className="text-color-primary">Featured Content</span>
             </h1>
             <div className="container-xs">
               <p
@@ -77,7 +77,7 @@ const Hero = ({
                 Embed YouTube video -{" "}
                 <a href="https://www.cluemediator.com">Clue Mediator</a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://youtu.be/4TC_VMHSICs" />
               <h3>
                 Embed YouTube video -{" "}
                 <a href="https://www.cluemediator.com">Clue Mediator</a>
