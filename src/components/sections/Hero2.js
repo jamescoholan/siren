@@ -74,18 +74,18 @@ const Hero = ({
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                Every Paul Graham Essay{" "}
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/4TC_VMHSICs" />
               <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                Every Paul Graham Essay Part 2{" "}
+                <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://youtu.be/23EnuRyd-eQ" />
               <h3>
                 Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
