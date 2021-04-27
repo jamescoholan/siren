@@ -71,7 +71,7 @@ const FeaturesSplit = ({
                   written word that can be hard to replicate with just giving a
                   talk. Text is written and re-written and optimized to express
                   exactly the message in the most effective language possible.
-                  The best information on the internet is in text. It is more
+                  The best information on the internet is in text! It is more
                   comprehensive and articulate for the expression vision.
                 </p>
               </div>
