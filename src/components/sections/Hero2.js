@@ -70,9 +70,9 @@ const Hero = ({
                 data-reveal-delay="400"
               ></p>
               <h3>
-                Naval<a href="https://www.cluemediator.com"></a>
+                Obama Speeches<a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=GJN-IT7VNbs&t=19s" />
               <h3>
                 Every Paul Graham Essay{" "}
                 <a href="https://www.cluemediator.com"></a>
@@ -84,83 +84,80 @@ const Hero = ({
               </h3>
               <ReactPlayer url="https://youtu.be/23EnuRyd-eQ" />
               <h3>
+                Amazon Shareholder Letters (1997-2019){" "}
+                <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=7xfPtEiqXcU" />
+              <h3>
+                Frankenstein; or, The Modern Prometheus - Mary Shelley{" "}
+                <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=EGL7UNIne8Q" />
+              <h3>
+                The French Revolution{" "}
+                <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=QT8ld3spSa4&t=63s" />
+              <h3>
+                Computer Science <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=jVjfj7UM_8M&t=1614s" />
+              <h3>
+                World Religions <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=ZDyExQ_cCdM&t=18061s" />
+              <h3>
+                The Great Gatsby - F. Scott Fitzgerald{" "}
+                <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=Ja7nXBPZq2E&t=10s" />
+              <h3>
+                AWS Nimble Studio <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=9MdGVk7-Wo0&t=52s" />
+              <h3>
+                James Joyce - Ulysses{" "}
+                <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=mS36mc8obf0" />
+              <h3>
                 Embed YouTube video -{" "}
                 <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
                 Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
                 Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
                 Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
                 Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
                 Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
                 Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
                 Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com">Clue Mediator</a>
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
 
