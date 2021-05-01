@@ -121,28 +121,28 @@ const Hero = ({
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=mS36mc8obf0" />
               <h3>
-                Embed YouTube video -{" "}
+                Berkshire Hathaway Shareholder Letter 2020{" "}
                 <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=33fEj4rafsk" />
               <h3>
-                Embed YouTube video -{" "}
+                The Google File System{" "}
+                <a href="https://www.youtube.com/watch?v=QVsn8ejXdkU"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=QVsn8ejXdkU" />
+              <h3>
+                Deep Work: Rules for Focused Success in a Distracted World - Cal
+                Newport <a href="https://www.cluemediator.com"></a>
+              </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=47a_rHvz1Tw" />
+              <h3>
+                Running Containerized Microservices on AWS{" "}
                 <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=ux6iuBeqmqU&t=54s" />
               <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com"></a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com"></a>
-              </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
-              <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com"></a>
+                The Republic of Plato{" "}
+                <a href="https://www.youtube.com/watch?v=r8_nzhggJJk"></a>
               </h3>
               <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
               <h3>
