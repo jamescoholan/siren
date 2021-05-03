@@ -141,25 +141,22 @@ const Hero = ({
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=ux6iuBeqmqU&t=54s" />
               <h3>
-                The Republic of Plato{" "}
+                Philosophy{" "}
                 <a href="https://www.youtube.com/watch?v=r8_nzhggJJk"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=bEt-2bGNyJY" />
               <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com"></a>
+                Civilization <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=M36G4VWyVEE" />
               <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com"></a>
+                Astronomy <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=tRTY6MTKhAQ" />
               <h3>
-                Embed YouTube video -{" "}
-                <a href="https://www.cluemediator.com"></a>
+                Ancient Egypt <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/DiXL7YC8zCw" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=nopBvxVQ_1E" />
 
               <div className="reveal-from-bottom" data-reveal-delay="600"></div>
             </div>
