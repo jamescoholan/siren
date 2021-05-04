@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/laptop-turns-into-book-760.jpeg")}
+                  src={require("./../../assets/images/5.png")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -114,7 +114,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/glossary-what-is-knowledge-management-in-practice.jpeg")}
+                  src={require("./../../assets/images/3.png")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -142,7 +142,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/a-personalized-entity-repository-in-the-knowledge-graph-5f48cec744afc-1520x800.png")}
+                  src={require("./../../assets/images/2.png")}
                   alt="Features split 03"
                   width={528}
                   height={396}

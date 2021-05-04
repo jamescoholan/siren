@@ -67,7 +67,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                A Streaming Service Unlocking the Text Content of the Internet
+                Mapping the Content of the Internet to Audio
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -79,14 +79,14 @@ const Hero = ({
                   >
                     YouTube
                   </Button>
-                  <Button
+                  {/* <Button
                     tag="a"
                     color="dark"
                     wideMobile
                     href="https://github.com/cruip/open-react-template/"
                   >
                     View on Github
-                  </Button>
+                  </Button> */}
                 </ButtonGroup>
               </div>
             </div>
