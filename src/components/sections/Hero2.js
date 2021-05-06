@@ -75,8 +75,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               ></p>
-              <h3>Obama's Speeches</h3>
-              <ReactPlayer url="https://www.youtube.com/watch?v=GJN-IT7VNbs&t=19s" />
+
               <h3>The Renaissance</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=ekegMvw9fYs" />
               <h3>The House of Medici</h3>
@@ -85,8 +84,8 @@ const Hero = ({
               <ReactPlayer url="https://www.youtube.com/watch?v=d35XK74e95A" />
               <h3>Frankenstein</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=EGL7UNIne8Q" />
-              <h3>The French Revolution </h3>
-              <ReactPlayer url="https://www.youtube.com/watch?v=QT8ld3spSa4&t=63s" />
+              <h3>War and Peace </h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=SvhrQOK11D0" />
               <h3>Computer Science</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=jVjfj7UM_8M&t=1614s" />
               <h3>World Religions</h3>
@@ -95,20 +94,22 @@ const Hero = ({
               <ReactPlayer url="https://www.youtube.com/watch?v=Ja7nXBPZq2E&t=10s" />
               <h3>AWS Nimble Studio</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=9MdGVk7-Wo0&t=52s" />
-              <h3>Ulysses</h3>
-              <ReactPlayer url="https://www.youtube.com/watch?v=mS36mc8obf0" />
+              <h3>Globalization</h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=AqFFVu_uqz0" />
               <h3>The Scientific Method </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=CoOC7RDyJ_o" />
               <h3>The Google File System</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=QVsn8ejXdkU" />
               <h3>Deep Work</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=47a_rHvz1Tw" />
-              <h3>AWS</h3>
-              <ReactPlayer url="https://www.youtube.com/watch?v=ux6iuBeqmqU&t=54s" />
+              <h3>Socrates</h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=zVAQxZJPZkU" />
               <h3>Philosophy</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=bEt-2bGNyJY" />
               <h3>Civilization</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=M36G4VWyVEE" />
+              <h3>Obama's Speeches</h3>
+              <ReactPlayer url="https://www.youtube.com/watch?v=GJN-IT7VNbs&t=19s" />
               <h3>Astronomy</h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=tRTY6MTKhAQ" />
               <h3>Ancient Egypt</h3>
