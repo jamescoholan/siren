@@ -5,7 +5,6 @@ import ButtonGroup from "../elements/ButtonGroup";
 import Button from "../elements/Button";
 import Image from "../elements/Image";
 import Modal from "../elements/Modal";
-import Logo from "/Users/jamescoholan/Desktop/Production Code/SirenLandingPage/src/components/layout/partials/Logo.js";
 
 const propTypes = {
   ...SectionProps.types,
@@ -61,8 +60,15 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              <Logo />
               {/* <span className="text-color-primary">Siren</span> */}
+              <Image
+                className="has-shadow"
+                src={require("./../../assets/images/SirenLogo.png")}
+                alt="Hero"
+                width={396}
+                height={104}
+              />
+              <h1 />
             </h1>
             <div className="container-xs">
               <p
