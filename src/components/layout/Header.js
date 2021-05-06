@@ -117,13 +117,13 @@ const Header = ({
                   </ul>
                   {!hideSignin && (
                     <ul className="list-reset header-nav-right">
-                      <li>
+                      {/* <li>
                         <Link
                           to="#0"
                           className="button button-primary button-wide-mobile button-sm"
                           onClick={closeMenu}
                         ></Link>
-                      </li>
+                      </li> */}
                     </ul>
                   )}
                 </div>
