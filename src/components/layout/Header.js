@@ -112,9 +112,7 @@ const Header = ({
                     )}
                   >
                     <li>
-                      <Link to="#0" onClick={closeMenu}>
-                        Documentation
-                      </Link>
+                      <Link to="#0" onClick={closeMenu}></Link>
                     </li>
                   </ul>
                   {!hideSignin && (
@@ -124,9 +122,7 @@ const Header = ({
                           to="#0"
                           className="button button-primary button-wide-mobile button-sm"
                           onClick={closeMenu}
-                        >
-                          Sign up
-                        </Link>
+                        ></Link>
                       </li>
                     </ul>
                   )}
