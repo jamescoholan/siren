@@ -64,7 +64,13 @@ const Hero = ({
             >
               <span className="text-color-primary">Featured Content</span>
             </h1>
-            <div className="container-xs">
+            <div
+              className="container-xs"
+              style={{
+                justifyContent: "center",
+                alignItems: "center",
+              }}
+            >
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
