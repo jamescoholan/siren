@@ -5,6 +5,7 @@ import ButtonGroup from "../elements/ButtonGroup";
 import Button from "../elements/Button";
 import Image from "../elements/Image";
 import Modal from "../elements/Modal";
+import Logo from "/Users/jamescoholan/Desktop/Production Code/SirenLandingPage/src/components/layout/partials/Logo.js";
 
 const propTypes = {
   ...SectionProps.types,
@@ -60,7 +61,8 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              <span className="text-color-primary">Siren</span>
+              <Logo />
+              {/* <span className="text-color-primary">Siren</span> */}
             </h1>
             <div className="container-xs">
               <p
@@ -104,7 +106,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/Audio.png")}
+                src={require("./../../assets/images/audiowave.png")}
                 alt="Hero"
                 width={896}
                 height={504}

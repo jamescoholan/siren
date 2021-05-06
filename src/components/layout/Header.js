@@ -87,7 +87,7 @@ const Header = ({
             bottomDivider && "has-bottom-divider"
           )}
         >
-          <Logo />
+          {/* <Logo /> */}
           {!hideNav && (
             <>
               <button
