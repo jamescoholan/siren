@@ -43,7 +43,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Text to Speach AI Streaming",
+    title: "Text to Speech AI Streaming",
     paragraph:
       "Unlock text content with AI. Written content is often better articulated and more comprehensive and yet less accessible than audio visual.",
   };

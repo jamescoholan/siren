@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/5.png")}
+                  src={require("./../../assets/images/Mockup1.png")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -114,7 +114,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/3.png")}
+                  src={require("./../../assets/images/Mockup2.png")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -142,7 +142,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/2.png")}
+                  src={require("./../../assets/images/Mockup3.png")}
                   alt="Features split 03"
                   width={528}
                   height={396}
