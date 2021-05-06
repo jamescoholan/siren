@@ -18,7 +18,7 @@ const Home = () => {
         imageFill
         className="illustration-section-02"
       />
-      {/* <Hero2 /> */}
+      <Hero2 />
       {/* <Testimonial topDivider /> */}
       {/* <Cta split /> */}
     </>
