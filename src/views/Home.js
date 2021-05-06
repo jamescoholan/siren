@@ -20,7 +20,7 @@ const Home = () => {
       />
       <Hero2 />
       {/* <Testimonial topDivider /> */}
-      <Cta split />
+      {/* <Cta split /> */}
     </>
   );
 };
