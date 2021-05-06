@@ -103,7 +103,8 @@ const FeaturesSplit = ({
                 <p className="m-0">
                   People are far more likely to listen and engage than to sit
                   down and read. Lets unlock the content for everyone by
-                  promoting access and reducing friction.
+                  promoting access and reducing friction. Maximizing the Spread
+                  of Ideas
                 </p>
               </div>
               <div
@@ -128,10 +129,11 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Maximizing the Spread of Ideas</h3>
+                <h3 className="mt-0 mb-12">Solving TLDR;</h3>
                 <p className="m-0">
-                  Mentally download the best writers with the least amount of
-                  friction possible.
+                  To Long Didn't Read is a reason why most of the best content
+                  never gets read. Mentally download the best writers with the
+                  least amount of friction possible.
                 </p>
               </div>
               <div

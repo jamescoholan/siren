@@ -75,7 +75,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Mapping the Content of the Internet to Audio
+                Mapping the Internet's Content to Audio
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
