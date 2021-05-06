@@ -50,7 +50,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: "The Great Unlock",
-    paragraph: "Maximizing Access to the Best Information",
+    paragraph: "Making the Best Information Accessible",
   };
 
   return (
@@ -65,7 +65,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">"The Book is Always Better"</h3>
+                <h3 className="mt-0 mb-12">The Book is Always Better</h3>
                 <p className="m-0">
                   There is a degree of articulation and comprehensiveness in the
                   written word that can be hard to replicate with just giving a
@@ -128,10 +128,10 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Maximize the Spread of Ideas</h3>
+                <h3 className="mt-0 mb-12">Maximizing the Spread of Ideas</h3>
                 <p className="m-0">
-                  Mentally download the data of the best writers in the most
-                  consumable format possible.
+                  Mentally download the best writers with the least amount of
+                  friction possible.
                 </p>
               </div>
               <div

@@ -75,7 +75,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Mapping the Content of the Internet to Audio.
+                Mapping the Content of the Internet to Audio
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -112,9 +112,9 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/audiowave.png")}
+                src={require("./../../assets/images/waveformsiren.png")}
                 alt="Hero"
-                width={896}
+                width={596}
                 height={504}
               />
             </a>
