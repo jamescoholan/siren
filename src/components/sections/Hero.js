@@ -87,14 +87,14 @@ const Hero = ({
                   >
                     YouTube
                   </Button>
-                  {/* <Button
+                  <Button
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://github.com/cruip/open-react-template/"
+                    href="https://soundcloud.com/james-coholan-128972965"
                   >
-                    View on Github
-                  </Button> */}
+                    SoundCloud
+                  </Button>
                 </ButtonGroup>
               </div>
             </div>
