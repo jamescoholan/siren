@@ -70,27 +70,23 @@ const Hero = ({
                 data-reveal-delay="400"
               ></p>
               <h3>
-                Obama Speeches<a href="https://www.cluemediator.com"></a>
+                Obama's Speeches<a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=GJN-IT7VNbs&t=19s" />
               <h3>
-                Every Paul Graham Essay{" "}
-                <a href="https://www.cluemediator.com"></a>
+                The Renaissance <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/4TC_VMHSICs" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=ekegMvw9fYs" />
               <h3>
-                Every Paul Graham Essay Part 2{" "}
-                <a href="https://www.cluemediator.com"></a>
+                The House of Medici <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://youtu.be/23EnuRyd-eQ" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=he8XpO_7AoM" />
               <h3>
-                Amazon Shareholder Letters (1997-2019){" "}
-                <a href="https://www.cluemediator.com"></a>
+                The Napoleonic Code <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://www.youtube.com/watch?v=7xfPtEiqXcU" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=d35XK74e95A" />
               <h3>
-                Frankenstein; or, The Modern Prometheus - Mary Shelley{" "}
-                <a href="https://www.cluemediator.com"></a>
+                Frankenstein <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=EGL7UNIne8Q" />
               <h3>
@@ -107,8 +103,7 @@ const Hero = ({
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=ZDyExQ_cCdM&t=18061s" />
               <h3>
-                The Great Gatsby - F. Scott Fitzgerald{" "}
-                <a href="https://www.cluemediator.com"></a>
+                The Great Gatsby <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=Ja7nXBPZq2E&t=10s" />
               <h3>
@@ -116,28 +111,26 @@ const Hero = ({
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=9MdGVk7-Wo0&t=52s" />
               <h3>
-                James Joyce - Ulysses{" "}
-                <a href="https://www.cluemediator.com"></a>
+                Ulysses <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=mS36mc8obf0" />
               <h3>
-                Berkshire Hathaway Shareholder Letter 2020{" "}
+                The Scientific Method{" "}
                 <a href="https://www.cluemediator.com"></a>
               </h3>
-              <ReactPlayer url="https://www.youtube.com/watch?v=33fEj4rafsk" />
+              <ReactPlayer url="https://www.youtube.com/watch?v=CoOC7RDyJ_o" />
               <h3>
                 The Google File System{" "}
                 <a href="https://www.youtube.com/watch?v=QVsn8ejXdkU"></a>
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=QVsn8ejXdkU" />
               <h3>
-                Deep Work: Rules for Focused Success in a Distracted World - Cal
-                Newport <a href="https://www.cluemediator.com"></a>
+                Deep Work
+                <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=47a_rHvz1Tw" />
               <h3>
-                Running Containerized Microservices on AWS{" "}
-                <a href="https://www.cluemediator.com"></a>
+                AWS <a href="https://www.cluemediator.com"></a>
               </h3>
               <ReactPlayer url="https://www.youtube.com/watch?v=ux6iuBeqmqU&t=54s" />
               <h3>
