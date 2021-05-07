@@ -68,11 +68,7 @@ const FeaturesSplit = ({
                 <h3 className="mt-0 mb-12">The Book is Always Better</h3>
                 <p className="m-0">
                   There is a degree of articulation and comprehensiveness in the
-                  written word that can be hard to replicate with just giving a
-                  talk. Text is written and re-written and optimized to express
-                  exactly the message in the most effective language possible.
-                  The best information on the internet is in text! It is more
-                  comprehensive and articulate for the expression vision.
+                  written word that can be hard with conversation.
                 </p>
               </div>
               <div
@@ -131,9 +127,9 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Solving TLDR;</h3>
                 <p className="m-0">
-                  To Long Didn't Read is a reason why most of the best content
-                  never gets read. Mentally download the best writers with the
-                  least amount of friction possible.
+                  “To Long Didn't Read” is a reason why most of the best
+                  information never gets consumed. Audio solves this problem by
+                  making content digestible
                 </p>
               </div>
               <div

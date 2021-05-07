@@ -70,7 +70,7 @@ const FeaturesTiles = ({
                   <h4 className="mt-0 mb-8">WaveNet Speech Synthesis</h4>
                   <p className="m-0 text-sm">
                     Developed By Google DeepMind we use WaveNet for Text To
-                    Speach
+                    Speech
                   </p>
                 </div>
               </div>
@@ -93,7 +93,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Scraping Text Content with Python
+                    Web Scraping Text Content with Python
                   </h4>
                   <p className="m-0 text-sm">
                     Scraping Text Content into Readable Forms at Scale
@@ -118,10 +118,8 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Streaming & Recording</h4>
-                  <p className="m-0 text-sm">
-                    Recorded Videos of Speech Content
-                  </p>
+                  <h4 className="mt-0 mb-8">Accessibility With a Mobile App</h4>
+                  <p className="m-0 text-sm">Frictionless Access to Content</p>
                 </div>
               </div>
             </div>
