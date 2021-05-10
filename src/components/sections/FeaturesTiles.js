@@ -45,7 +45,7 @@ const FeaturesTiles = ({
   const sectionHeader = {
     title: "AI Text to Speech",
     paragraph:
-      "Unlocking text content with AI. Written content is often better articulated and more comprehensive and yet less accessible than audio visual.",
+      "Unlocking text content with AI. Written content is more comprehensive better articulated and yet less accessible and digestible. Siren solves this access problem by generating audio from the most relevant information online and delivering it with a frictionless mobile experience.",
   };
 
   return (

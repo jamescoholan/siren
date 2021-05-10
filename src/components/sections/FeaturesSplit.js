@@ -68,7 +68,7 @@ const FeaturesSplit = ({
                 <h3 className="mt-0 mb-12">The Book is Always Better</h3>
                 <p className="m-0">
                   There is a degree of articulation and comprehensiveness in the
-                  written word that can be hard with conversation.
+                  written word that is hard to replicate with other mediums.
                 </p>
               </div>
               <div
@@ -98,9 +98,7 @@ const FeaturesSplit = ({
                 </h3>
                 <p className="m-0">
                   People are far more likely to listen and engage than to sit
-                  down and read. Lets unlock the content for everyone by
-                  promoting access and reducing friction. Maximizing the Spread
-                  of Ideas
+                  and read. Maximizing the Spread of Ideas by reducing friction.
                 </p>
               </div>
               <div
