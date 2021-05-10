@@ -65,7 +65,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">The Book is Always Better</h3>
+                <h3 className="mt-0 mb-12">Accessible Information on Mobile</h3>
                 <p className="m-0">
                   There is a degree of articulation and comprehensiveness in the
                   written word that is hard to replicate with other mediums.
